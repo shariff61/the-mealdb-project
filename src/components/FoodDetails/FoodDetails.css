@@ -1,0 +1,12 @@
+.food {
+  border: 2px solid greenyellow;
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: wheat;
+}
+.btn-meal {
+  background-color: rgb(255, 0, 72);
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  font-size: 1.4rem;
+}

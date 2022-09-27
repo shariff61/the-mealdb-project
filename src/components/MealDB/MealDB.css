@@ -1,0 +1,17 @@
+.main-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 2rem;
+}
+
+.food-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+.cart-container {
+  background-color: coral;
+  padding-left: 1rem;
+  /* position: sticky;
+  top: 0; */
+}
